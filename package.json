@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "@typescript-eslint/parser": "^6.4.0",
+        "eslint": "^8.47.0"
+    }
+}
